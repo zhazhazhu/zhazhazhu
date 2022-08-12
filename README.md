@@ -1,6 +1,5 @@
 Look at, This is place yearning for freedom
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhazhazhu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zhazhazhu/zhazhazhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
