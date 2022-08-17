@@ -1,5 +1,5 @@
 Look at, This is place yearning for freedom
-<p align="center">
+<p>
   <samp>
     <a href="https://qzzhu.cn">me</a> .
     <a href="https://twitter.com/Zhazhazhu_">tweets</a> .
