@@ -1,7 +1,7 @@
 Look at, This is place yearning for freedom
 <p>
   <samp>
-    <a href="https://qzzhu.cn">me</a> .
+    <a href="https://zhazhazhu.me">me</a> .
     <a href="https://twitter.com/Zhazhazhu_">tweets</a> .
     <a href="https://md.qzzhu.cn/">markdown</a> .
   </samp>
